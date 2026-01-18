@@ -1,1 +1,1 @@
-# browsing_demo
+# Generating Navigable Trails Through the Information World
